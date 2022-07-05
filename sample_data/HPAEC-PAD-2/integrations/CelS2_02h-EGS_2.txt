@@ -1,0 +1,58 @@
+Chromatogram and Results								
+								
+Injection Details								
+Injection Name:		CelS2_02h-EGS_2			Run Time (min):	26,00		
+Vial Number:		BA2			Injection Volume:	5,00		
+Injection Type:		Unknown			Channel:	ED_1		
+Calibration Level:					Wavelength:	n.a.		
+Instrument Method:		ICS5000_PA200_FullNative_Ox_26min_ED1			Bandwidth:	n.a.		
+Processing Method:		Stop sequence after Cell Death			Dilution Factor:	1,0000		
+Injection Date/Time:		14.jun.22 15:45			Sample Weight:	1,0000		
+								
+Chromatogram								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+Integration Results								
+No. 	Peak Name	Retention Time	Area 	Height 	Relative Area 	Relative Height 	Amount 	
+		min	nC*min	nC	%	%		
+ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	
+n.a.	A1	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	
+n.a.	A2	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	
+1  	A1OX	3,567	0,045	0,656	0,78	1,01	n.a.	
+2  		4,250	0,053	0,533	0,91	0,82	n.a.	
+3  		4,942	0,543	4,145	9,32	6,41	n.a.	
+4  		5,284	0,075	0,621	1,29	0,96	n.a.	
+5  		5,859	0,341	2,663	5,86	4,12	n.a.	
+6  	A2OX	7,534	0,052	0,829	0,90	1,28	n.a.	
+7  		8,009	1,874	26,942	32,18	41,67	n.a.	
+8  	A3OX	8,842	1,593	25,927	27,36	40,10	n.a.	
+9  		10,042	0,129	1,163	2,21	1,80	n.a.	
+10  		11,950	0,056	0,347	0,97	0,54	n.a.	
+11  		12,684	0,043	0,152	0,74	0,24	n.a.	
+12  		12,850	0,894	0,272	15,35	0,42	n.a.	
+13  		14,775	0,125	0,402	2,15	0,62	n.a.	
+Total:			5,824 	64,654 	100,00 	100,00 		

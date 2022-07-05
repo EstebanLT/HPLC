@@ -1,0 +1,72 @@
+Chromatogram and Results								
+								
+Injection Details								
+Injection Name:		4_01h-EGS_3			Run Time (min):	26,00		
+Vial Number:		BB1			Injection Volume:	5,00		
+Injection Type:		Unknown			Channel:	ED_1		
+Calibration Level:					Wavelength:	n.a.		
+Instrument Method:		ICS5000_PA200_FullNative_Ox_26min_ED1			Bandwidth:	n.a.		
+Processing Method:		Stop sequence after Cell Death			Dilution Factor:	1,0000		
+Injection Date/Time:		14.jun.22 19:34			Sample Weight:	1,0000		
+								
+Chromatogram								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+Integration Results								
+No. 	Peak Name	Retention Time	Area 	Height 	Relative Area 	Relative Height 	Amount 	
+		min	nC*min	nC	%	%		
+ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	
+n.a.	A1	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	
+n.a.	A2	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	
+1  	A1OX	3,609	0,194	2,850	1,19	1,31	n.a.	
+2  		3,934	0,031	0,428	0,19	0,20	n.a.	
+3  		4,075	2,469	23,401	15,13	10,76	n.a.	
+4  		4,500	0,090	1,018	0,55	0,47	n.a.	
+5  		5,059	0,392	2,882	2,40	1,33	n.a.	
+6  		5,500	0,076	0,471	0,46	0,22	n.a.	
+7  		6,292	0,137	1,010	0,84	0,46	n.a.	
+8  	A2OX	6,684	0,033	0,349	0,20	0,16	n.a.	
+9  		6,959	1,596	13,399	9,78	6,16	n.a.	
+10  		7,392	0,049	0,449	0,30	0,21	n.a.	
+11  		7,675	0,051	0,758	0,31	0,35	n.a.	
+12  		7,992	1,114	14,656	6,83	6,74	n.a.	
+13  	A3OX	8,134	3,888	68,214	23,83	31,36	n.a.	
+14  		8,500	0,030	0,588	0,19	0,27	n.a.	
+15  		8,850	3,007	50,951	18,43	23,42	n.a.	
+16  		9,217	0,156	4,385	0,95	2,02	n.a.	
+17  		9,309	1,677	20,449	10,28	9,40	n.a.	
+18  		9,992	0,150	0,965	0,92	0,44	n.a.	
+19  		10,425	0,060	0,568	0,37	0,26	n.a.	
+20  		10,617	0,035	0,403	0,22	0,19	n.a.	
+21  		10,809	0,037	0,484	0,23	0,22	n.a.	
+22  		11,417	0,039	0,333	0,24	0,15	n.a.	
+23  		11,900	0,190	2,292	1,16	1,05	n.a.	
+24  		12,200	0,325	1,492	1,99	0,69	n.a.	
+25  		12,617	0,117	0,739	0,72	0,34	n.a.	
+26  		12,875	0,268	3,436	1,64	1,58	n.a.	
+27  		14,800	0,105	0,540	0,64	0,25	n.a.	
+Total:			16,315 	217,510 	100,00 	100,00 		

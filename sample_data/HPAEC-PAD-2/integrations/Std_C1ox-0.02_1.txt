@@ -1,0 +1,49 @@
+Chromatogram and Results								
+								
+Injection Details								
+Injection Name:		Std_C1ox-0.02_1			Run Time (min):	26,00		
+Vial Number:		RA1			Injection Volume:	5,00		
+Injection Type:		Unknown			Channel:	ED_1		
+Calibration Level:					Wavelength:	n.a.		
+Instrument Method:		ICS5000_PA200_FullNative_Ox_26min_ED1			Bandwidth:	n.a.		
+Processing Method:		Stop sequence after Cell Death			Dilution Factor:	1,0000		
+Injection Date/Time:		12.jun.22 18:22			Sample Weight:	1,0000		
+								
+Chromatogram								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+Integration Results								
+No. 	Peak Name	Retention Time	Area 	Height 	Relative Area 	Relative Height 	Amount 	
+		min	nC*min	nC	%	%		
+ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	
+n.a.	A1	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	
+n.a.	A2	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	
+1  	A1OX	3,659	0,484	6,278	3,27	4,30	n.a.	
+2  		4,250	0,754	7,417	5,10	5,09	n.a.	
+3  	A2OX	6,550	6,323	52,757	42,74	36,17	n.a.	
+4  	A3OX	8,459	7,233	79,392	48,89	54,44	n.a.	
+Total:			14,794 	145,845 	100,00 	100,00 		

@@ -1,0 +1,46 @@
+Chromatogram and Results								
+								
+Injection Details								
+Injection Name:		7_00h-EGS_NA			Run Time (min):	6,00		
+Vial Number:		BB7			Injection Volume:	8,00		
+Injection Type:		Unknown			Channel:	UV_VIS_1		
+Calibration Level:					Wavelength:	194		
+Instrument Method:		Short_Rezex_6min_194nm			Bandwidth:	n.a.		
+Processing Method:		New ProcMethod			Dilution Factor:	1,0000		
+Injection Date/Time:		13.jun.22 05:19			Sample Weight:	1,0000		
+								
+Chromatogram								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+Integration Results								
+No. 	Peak Name	Retention Time	Area 	Height 	Relative Area 	Relative Height 	Amount 	
+		min	mAU*min	mAU	%	%	µM	
+UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	
+n.a.	A2ox	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	
+1  	A1	2,111	1,495	4,642	51,52	56,49	0,5005	
+2  		2,451	1,407	3,575	48,48	43,51	n.a.	
+Total:			2,902 	8,217 	100,00 	100,00 		

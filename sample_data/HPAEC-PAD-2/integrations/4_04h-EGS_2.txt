@@ -1,0 +1,69 @@
+Chromatogram and Results								
+								
+Injection Details								
+Injection Name:		4_04h-EGS_2			Run Time (min):	26,00		
+Vial Number:		GD6			Injection Volume:	5,00		
+Injection Type:		Unknown			Channel:	ED_1		
+Calibration Level:					Wavelength:	n.a.		
+Instrument Method:		ICS5000_PA200_FullNative_Ox_26min_ED1			Bandwidth:	n.a.		
+Processing Method:		Stop sequence after Cell Death			Dilution Factor:	1,0000		
+Injection Date/Time:		14.jun.22 10:00			Sample Weight:	1,0000		
+								
+Chromatogram								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+Integration Results								
+No. 	Peak Name	Retention Time	Area 	Height 	Relative Area 	Relative Height 	Amount 	
+		min	nC*min	nC	%	%		
+ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	
+n.a.	A1	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	
+n.a.	A2	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	
+1  	A1OX	3,834	0,127	1,001	0,75	0,56	n.a.	
+2  		4,409	0,497	3,618	2,91	2,02	n.a.	
+3  		4,709	0,109	0,776	0,64	0,43	n.a.	
+4  		6,009	2,098	17,825	12,31	9,96	n.a.	
+5  	A2OX	6,842	0,052	0,558	0,30	0,31	n.a.	
+6  		7,142	0,768	6,330	4,51	3,54	n.a.	
+7  		7,500	4,684	57,784	27,49	32,30	n.a.	
+8  		8,059	0,037	0,594	0,22	0,33	n.a.	
+9  	A3OX	8,634	3,924	53,793	23,03	30,07	n.a.	
+10  		9,050	0,888	14,186	5,21	7,93	n.a.	
+11  		9,759	0,693	5,198	4,06	2,91	n.a.	
+12  		10,025	0,051	0,430	0,30	0,24	n.a.	
+13  		10,584	0,063	0,522	0,37	0,29	n.a.	
+14  		10,817	0,036	0,478	0,21	0,27	n.a.	
+15  		11,009	0,051	0,562	0,30	0,31	n.a.	
+16  		11,192	0,041	0,511	0,24	0,29	n.a.	
+17  		11,417	0,381	3,063	2,24	1,71	n.a.	
+18  		11,775	0,101	0,975	0,59	0,55	n.a.	
+19  		12,459	0,292	2,070	1,72	1,16	n.a.	
+20  		13,125	0,335	2,156	1,96	1,21	n.a.	
+21  		13,267	0,284	2,129	1,67	1,19	n.a.	
+22  		13,434	0,304	1,919	1,78	1,07	n.a.	
+23  		13,667	0,692	1,569	4,06	0,88	n.a.	
+24  		14,450	0,534	0,847	3,13	0,47	n.a.	
+Total:			17,040 	178,897 	100,00 	100,00 		

@@ -1,0 +1,68 @@
+Chromatogram and Results								
+								
+Injection Details								
+Injection Name:		4_04h-EGS_1			Run Time (min):	26,00		
+Vial Number:		GD5			Injection Volume:	5,00		
+Injection Type:		Unknown			Channel:	ED_1		
+Calibration Level:					Wavelength:	n.a.		
+Instrument Method:		ICS5000_PA200_FullNative_Ox_26min_ED1			Bandwidth:	n.a.		
+Processing Method:		Stop sequence after Cell Death			Dilution Factor:	1,0000		
+Injection Date/Time:		14.jun.22 09:31			Sample Weight:	1,0000		
+								
+Chromatogram								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+Integration Results								
+No. 	Peak Name	Retention Time	Area 	Height 	Relative Area 	Relative Height 	Amount 	
+		min	nC*min	nC	%	%		
+ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	
+n.a.	A1	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	
+n.a.	A2	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	
+1  	A1OX	3,659	1,301	14,095	8,19	7,46	n.a.	
+2  		3,892	0,052	0,783	0,33	0,41	n.a.	
+3  		4,375	0,386	2,815	2,43	1,49	n.a.	
+4  		4,734	0,036	0,398	0,23	0,21	n.a.	
+5  		5,450	0,076	0,914	0,48	0,48	n.a.	
+6  		6,000	1,421	12,260	8,94	6,49	n.a.	
+7  	A2OX	7,117	1,017	8,546	6,40	4,52	n.a.	
+8  		7,492	4,866	59,453	30,62	31,47	n.a.	
+9  		7,809	0,036	0,515	0,23	0,27	n.a.	
+10  		8,067	0,054	0,668	0,34	0,35	n.a.	
+11  	A3OX	8,650	2,872	40,554	18,07	21,46	n.a.	
+12  		9,042	2,429	35,844	15,29	18,97	n.a.	
+13  		9,384	0,289	0,907	1,82	0,48	n.a.	
+14  		9,709	0,152	1,591	0,96	0,84	n.a.	
+15  		10,050	0,060	0,675	0,38	0,36	n.a.	
+16  		10,600	0,084	0,729	0,53	0,39	n.a.	
+17  		10,842	0,048	0,454	0,30	0,24	n.a.	
+18  		11,025	0,055	0,501	0,35	0,26	n.a.	
+19  		11,225	0,032	0,416	0,20	0,22	n.a.	
+20  		11,409	0,180	2,324	1,14	1,23	n.a.	
+21  		11,550	0,065	0,752	0,41	0,40	n.a.	
+22  		11,775	0,086	0,851	0,54	0,45	n.a.	
+23  		12,459	0,294	2,893	1,85	1,53	n.a.	
+Total:			15,893 	188,936 	100,00 	100,00 		

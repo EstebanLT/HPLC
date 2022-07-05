@@ -1,0 +1,59 @@
+Chromatogram and Results								
+								
+Injection Details								
+Injection Name:		7_24h-NT-pH6_NA			Run Time (min):	26,00		
+Vial Number:		RB5			Injection Volume:	5,00		
+Injection Type:		Unknown			Channel:	ED_1		
+Calibration Level:					Wavelength:	n.a.		
+Instrument Method:		ICS5000_PA200_FullNative_Ox_26min_ED1			Bandwidth:	n.a.		
+Processing Method:		Stop sequence after Cell Death			Dilution Factor:	1,0000		
+Injection Date/Time:		13.jun.22 00:07			Sample Weight:	1,0000		
+								
+Chromatogram								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+Integration Results								
+No. 	Peak Name	Retention Time	Area 	Height 	Relative Area 	Relative Height 	Amount 	
+		min	nC*min	nC	%	%		
+ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	
+n.a.	A1	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	
+n.a.	A2	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	
+1  	A1OX	4,150	0,168	1,896	15,75	14,07	n.a.	
+2  		4,775	0,134	1,280	12,52	9,49	n.a.	
+3  		6,192	0,065	0,865	6,13	6,42	n.a.	
+4  	A2OX	6,992	0,059	0,298	5,58	2,21	n.a.	
+5  		7,575	0,037	0,234	3,50	1,73	n.a.	
+6  	A3OX	8,492	0,031	0,424	2,86	3,14	n.a.	
+7  		8,634	0,053	0,457	5,00	3,39	n.a.	
+8  		8,900	0,043	0,576	4,07	4,27	n.a.	
+9  		9,392	0,081	1,049	7,63	7,78	n.a.	
+10  		9,600	0,070	0,724	6,52	5,37	n.a.	
+11  		9,792	0,064	0,924	5,99	6,85	n.a.	
+12  		10,100	0,058	0,881	5,42	6,54	n.a.	
+13  		10,317	0,049	0,783	4,60	5,81	n.a.	
+14  		10,409	0,154	3,092	14,42	22,93	n.a.	
+Total:			1,067 	13,483 	100,00 	100,00 		

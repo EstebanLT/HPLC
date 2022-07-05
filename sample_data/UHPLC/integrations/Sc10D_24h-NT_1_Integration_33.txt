@@ -1,0 +1,45 @@
+Chromatogram and Results								
+								
+Injection Details								
+Injection Name:		Sc10D_24h-NT_1			Run Time (min):	6,00		
+Vial Number:		RD5			Injection Volume:	8,00		
+Injection Type:		Unknown			Channel:	UV_VIS_1		
+Calibration Level:					Wavelength:	194		
+Instrument Method:		Short_Rezex_6min_194nm			Bandwidth:	n.a.		
+Processing Method:		New ProcMethod			Dilution Factor:	1,0000		
+Injection Date/Time:		12.jun.22 20:41			Sample Weight:	1,0000		
+								
+Chromatogram								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+Integration Results								
+No. 	Peak Name	Retention Time	Area 	Height 	Relative Area 	Relative Height 	Amount 	
+		min	mAU*min	mAU	%	%	µM	
+UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	
+1  	A2ox	1,781	65,970	429,548	27,32	32,55	1178,6225	
+2  	A1	2,613	175,528	890,121	72,68	67,45	95,9681	
+Total:			241,498 	1319,669 	100,00 	100,00 		

@@ -1,0 +1,45 @@
+Chromatogram and Results								
+								
+Injection Details								
+Injection Name:		Sc10D_24h-ChiBI_3			Run Time (min):	6,00		
+Vial Number:		GA4			Injection Volume:	8,00		
+Injection Type:		Unknown			Channel:	UV_VIS_1		
+Calibration Level:					Wavelength:	194		
+Instrument Method:		Short_Rezex_6min_194nm			Bandwidth:	n.a.		
+Processing Method:		New ProcMethod			Dilution Factor:	1,0000		
+Injection Date/Time:		12.jun.22 22:25			Sample Weight:	1,0000		
+								
+Chromatogram								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+Integration Results								
+No. 	Peak Name	Retention Time	Area 	Height 	Relative Area 	Relative Height 	Amount 	
+		min	mAU*min	mAU	%	%	µM	
+UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	
+1  	A2ox	1,781	68,875	435,688	98,01	98,31	1195,4716	
+2  	A1	2,473	1,401	7,473	1,99	1,69	0,8057	
+Total:			70,276 	443,161 	100,00 	100,00 		

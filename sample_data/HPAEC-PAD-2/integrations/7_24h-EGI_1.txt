@@ -1,0 +1,58 @@
+Chromatogram and Results								
+								
+Injection Details								
+Injection Name:		7_24h-EGI_1			Run Time (min):	26,00		
+Vial Number:		GA4			Injection Volume:	5,00		
+Injection Type:		Unknown			Channel:	ED_1		
+Calibration Level:					Wavelength:	n.a.		
+Instrument Method:		ICS5000_PA200_FullNative_Ox_26min_ED1			Bandwidth:	n.a.		
+Processing Method:		Stop sequence after Cell Death			Dilution Factor:	1,0000		
+Injection Date/Time:		13.jun.22 18:13			Sample Weight:	1,0000		
+								
+Chromatogram								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+Integration Results								
+No. 	Peak Name	Retention Time	Area 	Height 	Relative Area 	Relative Height 	Amount 	
+		min	nC*min	nC	%	%		
+ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	ED_1	
+n.a.	A1	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	
+n.a.	A2	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	
+1  	A1OX	3,817	2,345	20,832	40,76	38,91	n.a.	
+2  		4,700	0,321	1,459	5,59	2,73	n.a.	
+3  		5,384	0,242	1,816	4,21	3,39	n.a.	
+4  		5,600	0,101	0,841	1,75	1,57	n.a.	
+5  	A2OX	6,725	0,224	2,646	3,89	4,94	n.a.	
+6  		6,925	0,435	5,105	7,55	9,54	n.a.	
+7  		7,900	0,097	1,124	1,69	2,10	n.a.	
+8  	A3OX	8,267	0,269	2,212	4,67	4,13	n.a.	
+9  		8,525	0,917	10,655	15,94	19,90	n.a.	
+10  		8,942	0,115	1,352	2,00	2,52	n.a.	
+11  		9,567	0,047	0,585	0,81	1,09	n.a.	
+12  		10,484	0,248	2,027	4,31	3,79	n.a.	
+13  		11,175	0,393	2,886	6,82	5,39	n.a.	
+Total:			5,755 	53,539 	100,00 	100,00 		

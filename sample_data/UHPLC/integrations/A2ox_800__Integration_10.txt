@@ -1,0 +1,47 @@
+Chromatogram and Results								
+								
+Injection Details								
+Injection Name:		A2ox 800			Run Time (min):	6,00		
+Vial Number:		RA7			Injection Volume:	8,00		
+Injection Type:		Calibration Standard			Channel:	UV_VIS_1		
+Calibration Level:		7			Wavelength:	194		
+Instrument Method:		Short_Rezex_6min_194nm			Bandwidth:	n.a.		
+Processing Method:		New ProcMethod			Dilution Factor:	1,0000		
+Injection Date/Time:		12.jun.22 18:12			Sample Weight:	1,0000		
+								
+Chromatogram								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+Integration Results								
+No. 	Peak Name	Retention Time	Area 	Height 	Relative Area 	Relative Height 	Amount 	
+		min	mAU*min	mAU	%	%	µM	
+UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	UV_VIS_1	
+1  	A2ox	1,776	56,165	366,486	93,51	95,96	1005,5888	
+2  	A1	2,168	2,538	9,166	4,23	2,40	0,9883	
+3  		2,618	0,723	3,577	1,20	0,94	n.a.	
+4  		2,821	0,636	2,696	1,06	0,71	n.a.	
+Total:			60,063 	381,926 	100,00 	100,00 		
